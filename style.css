@@ -1,5 +1,11 @@
 
 
 body{
-    font-family: poppins;
+    font-family: poppins,sans-serif;
+}
+.icon-color{
+    border-radius: 50%;
+    background-color: #242424;
+    width: 3vw;
+    height: 3vw;
 }
