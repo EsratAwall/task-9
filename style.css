@@ -9,8 +9,3 @@ body{
     width: 3vw;
     height: 3vw;
 }
-@media only screen and (max-width: 600px) {
-    .getstr{
-        
-    }
-  }
